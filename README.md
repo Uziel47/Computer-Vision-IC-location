@@ -1,4 +1,4 @@
-# Computer-Vision-IC-location
+# Computer-Vision-IC-location en tiempo real
 ¡¡¡IMPORTANTE!!!
 
 El proyecto IC LOCATION 1.0 fue realizado con un microscopio digital especifico, asi tambien con una determinada cantidad de luz. 
